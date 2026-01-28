@@ -57,7 +57,7 @@ The estimated density closely follows the empirical distribution, with minor dev
 PDF Estimation Plot:
 
 
-<img width="344" height="233" alt="image" src="https://github.com/user-attachments/assets/2d9a764f-1dcd-4cc7-9476-fbd58c2bf5fc" />
+<img width="688" height="466" alt="image" src="https://github.com/user-attachments/assets/2d9a764f-1dcd-4cc7-9476-fbd58c2bf5fc" />
 
 8. Conclusion:
 
