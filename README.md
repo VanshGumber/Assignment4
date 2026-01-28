@@ -54,6 +54,9 @@ Training remains stable due to normalization and the low-dimensional GAN design.
 Quality of Generated Distribution:
 The estimated density closely follows the empirical distribution, with minor deviations in the tails.
 
+PDF Estimation Plot:
+<img width="344" height="233" alt="image" src="https://github.com/user-attachments/assets/2d9a764f-1dcd-4cc7-9476-fbd58c2bf5fc" />
+
 8. Conclusion:
 
 This assignment demonstrates that GANs can learn an unknown probability density function directly from data samples without assuming any analytical form, providing a data-driven solution for density estimation.
